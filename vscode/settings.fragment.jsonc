@@ -1,0 +1,26 @@
+// Merge these properties into your existing VS Code settings.json.
+// This is intentionally a fragment, not an automatic overwrite.
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "vs-seti",
+  "window.titleBarStyle": "custom",
+  "editor.fontFamily": "'JetBrains Mono', 'monospace'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.lineHeight": 21,
+  "editor.minimap.enabled": false,
+  "workbench.activityBar.location": "top",
+  "workbench.colorCustomizations": {
+    "editor.background": "#0E0E10",
+    "sideBar.background": "#17171A",
+    "activityBar.background": "#17171A",
+    "titleBar.activeBackground": "#17171A",
+    "statusBar.background": "#17171A",
+    "panel.background": "#0E0E10",
+    "focusBorder": "#5E6AD2",
+    "button.background": "#5E6AD2",
+    "editorGroupHeader.tabsBackground": "#17171A",
+    "tab.activeBackground": "#0E0E10",
+    "tab.inactiveBackground": "#17171A"
+  }
+}
